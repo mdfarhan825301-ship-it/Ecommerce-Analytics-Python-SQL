@@ -1,4 +1,3 @@
-[README_ecommerce_analytics.md](https://github.com/user-attachments/files/29838672/README_ecommerce_analytics.md)
 # E-Commerce Analytics using Python and SQL
 
 ## Project overview
